@@ -29,6 +29,7 @@ function bkgStyle() {
         + ")";
 
         colorClipboard()
+        generateRandomColor()
 };
 
 function generateButton() {
